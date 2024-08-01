@@ -1,0 +1,180 @@
+body {
+    background-color: black;
+}
+.bgimage {
+    box-sizing: border-box;
+    position: absolute;
+    width:100%;
+    height:auto;
+    margin: 100 auto;
+    padding: 10px;
+  right: 0;
+}
+
+.heading {
+    font-size:50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color:white ;
+    position: absolute;
+    top: 22%;
+    width: 100%;
+    text-align: center;
+}
+
+.stylepic {
+    position: absolute;
+   
+    width: 15%;
+top: 155px;
+right: 42%;
+bottom: 100px;
+}
+
+.stylemain {
+    position: absolute;
+    right: 39%;
+    top: 59%;
+    width: 20%;
+}
+
+.customer {
+    position: absolute;
+    text-align: center;
+    font-size: 38px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(219, 30, 30);
+    top: 66%;
+    right: 34%;
+}
+
+.review {
+position: absolute;
+text-align: center;
+font-size: 23px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: white;
+top: 75%;
+left: 20%;
+}
+.form{
+   position:absolute;
+   align-items: center;
+   color: white;
+   font-size: 20px ;
+   right: 60%;
+   top: 100%;
+   display: inline-block;  
+   left: 40%;
+   
+}
+
+.mail{
+    position:absolute;
+    align-items: center;
+    color: white;
+    font-size: 20px ;
+    right: 60%;
+    top: 110%;
+    display: inline-block;  
+    left: 40%;
+     
+}
+
+.phone {
+    position:absolute;
+    align-items: center;
+    color: white;
+    font-size: 20px ;
+    right: 60%;
+    top: 120%;
+    display: inline-block;  
+    left: 40%;
+}
+
+.select{
+    position:absolute;
+    align-items: center;
+    color: white;
+    font-size: 20px ;
+    right: 60%;
+    top: 130%;
+    display: inline-block;  
+    left: 40%;
+}
+
+.branch{
+    position:absolute;
+    align-items: center;
+    color: white;
+    font-size: 20px ;
+    right: 60%;
+    top: 140%;
+    display: inline-block;  
+    left: 40%;
+}
+
+.food{
+    position:absolute; 
+     align-items: center;
+     color: white;
+ font-size: 20px ; 
+    /* right: 60%; */
+    top: 155%; 
+    left: 40%;  
+}
+
+.service{
+    position:absolute; 
+     align-items: center;
+     color: white;
+ font-size: 20px ; 
+    /* right: 60%; */
+    top: 168%; 
+    left: 40%;  
+}
+.cleanliness{
+    position:absolute; 
+     align-items: center;
+     color: white;
+ font-size: 20px ; 
+    /* right: 60%; */
+    top: 183%; 
+    left: 40%;  
+}.Accuracy{
+    position:absolute; 
+     align-items: center;
+     color: white;
+ font-size: 20px ; 
+    /* right: 60%; */
+    top: 198%; 
+    left: 40%;  
+}
+.speed{
+    position:absolute; 
+     align-items: center;
+     color: white;
+ font-size: 20px ; 
+    /* right: 60%; */
+    top: 212%; 
+    left: 40%;  
+}
+
+.feed{
+    position:absolute; 
+     align-items: center;
+     color: white;
+ font-size: 20px ; 
+    /* right: 60%; */
+    top: 225%; 
+    left: 40%;  
+}
+
+.submit{
+    position:absolute; 
+     align-items: center;
+     color: rgb(148, 17, 17);
+ font-size: 20px ; 
+    /* right: 60%; */
+    top: 250%; 
+    left: 40%;  
+}
