@@ -1,0 +1,110 @@
+body {
+    background-color: black;
+}
+.backimg {
+    box-sizing: border-box;
+    position: absolute;
+    width:100%;
+    height:510px;
+    margin: 100 auto;
+    padding: 10px;
+  right: 0;
+}
+
+.contacthead{
+    font-size:50px;
+    font-family: Arial, Helvetica, sans-serif;
+     color:white ;
+    position: absolute;
+    top: 22%;
+    width: 100%;
+    text-align: center;
+}
+
+.chotipic {
+    position: absolute;
+   
+    width: 15%;
+top: 143px;
+right: 42%;
+bottom: 100px;
+}
+
+.texter {
+    position: absolute;
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    top: 35%;
+    left: 31%;
+    }
+
+    .freeus{
+     position:absolute;
+        /* align-items: center; */
+        color: rgb(182, 9, 9);
+         font-size: 44px ; 
+         /* right: 60%; */
+        top: 67%;  
+        left: 35%;
+    }
+
+    .alagpic {
+        position: absolute;
+       
+        width: 19.5%;
+    top: 81%;
+    right: 40.3%;
+    bottom: 100px;
+    }
+
+    .reviewco {
+        position: absolute;
+        text-align: center;
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: white;
+        top: 88%;
+        left: 33%;
+        }
+
+        .locat{
+            position:absolute;
+               /* align-items: center; */
+               color: rgb(182, 9, 9);
+                font-size: 44px ; 
+                /* right: 60%; */
+               top: 105%;  
+               left: 40.5%;
+           }
+
+           .loc1{
+            position:absolute;
+               /* align-items: center; */
+               color: rgb(182, 9, 9);
+                font-size: 44px ; 
+                /* right: 60%; */
+               top: 119%;  
+               left: 7%;
+           }
+
+           .loc2{
+            position:absolute;
+               /* align-items: center; */
+               color: rgb(182, 9, 9);
+                font-size: 44px ; 
+                /* right: 60%; */
+               top: 119%;  
+               left: 37%;
+           }
+
+           .loc3{
+            position:absolute;
+               /* align-items: center; */
+               color: rgb(182, 9, 9);
+                font-size: 44px ; 
+                /* right: 60%; */
+               top: 119%;  
+               left: 67%;
+           }
